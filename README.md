@@ -9,6 +9,6 @@ Este es mi primer proyecto desarrollado con React y Vite para las prácticas en 
 * **Componentes:** Hoy he visto que react se basa en piezas pequeñas. He creado mi primer componente llamado `TarjetaInfo`.
 * **Build:** He generado la carpeta `dist`, que contiene la versión optimizada de la web para subirla a internet en el futuro.
 
-## 🛠️ Los comandos principales
-- `npm run dev`: Para trabajar en local.
-- `npm run build`: Para crear la versión final.
+##  Los comandos principales
+`npm run dev`: para trabajar en local.
+`npm run build`: para crear la versión final en el "dist".
