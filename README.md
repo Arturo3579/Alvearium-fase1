@@ -1,8 +1,8 @@
-# 🚀 Proyecto Fase 1 - Alvearium
+#  Proyecto Fase 1 - Alvearium
 
-Este es mi primer proyecto desarrollado con **React** y **Vite** para las prácticas en Alvearium.
+Este es mi primer proyecto desarrollado con React y Vite para las prácticas en Alvearium.
 
-## 📝 Conceptos de la Semana 1
+## Los primeros conceptos de la Semana 1
 
 * **Node.js:** Podríamos decior que es  el entorno que ejecuta JavaScript en mi ordenador para usar herramientas de desarrollo.
 * **npm (Node Package Manager):** Es el gestor que instaló todas las librerías necesarias para que el proyecto funcione.
