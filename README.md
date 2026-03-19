@@ -1,16 +1,14 @@
-# React + Vite
+# 🚀 Proyecto Fase 1 - Alvearium
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi primer proyecto desarrollado con **React** y **Vite** para las prácticas en Alvearium.
 
-Currently, two official plugins are available:
+## 📝 Conceptos de la Semana 1
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Node.js:** Podríamos decior que es  el entorno que ejecuta JavaScript en mi ordenador para usar herramientas de desarrollo.
+* **npm (Node Package Manager):** Es el gestor que instaló todas las librerías necesarias para que el proyecto funcione.
+* **Componentes:** Hoy he visto que react se basa en piezas pequeñas. He creado mi primer componente llamado `TarjetaInfo`.
+* **Build:** He generado la carpeta `dist`, que contiene la versión optimizada de la web para subirla a internet en el futuro.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Los comandos principales
+- `npm run dev`: Para trabajar en local.
+- `npm run build`: Para crear la versión final.
